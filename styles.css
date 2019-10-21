@@ -1,0 +1,112 @@
+p{
+  color : #663399;
+  font-size: 20px;
+}
+.welpdiv{
+  text : #663399;
+  font-size: 50px;
+  left : 39%;
+  position: absolute;
+
+}
+.pdiv{
+  color: #663399 ;
+  font-size: 50px;
+  position: absolute;
+  left : 43%;
+}
+.ppdiv{
+  color: #663399;
+  font-size: 50px;
+  position: absolute;
+  left : 39%;
+
+}
+.regdiv
+{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    height: 500px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+   background: transparent;
+  /*  opacity: 0.2;*/
+}
+.regdiv input
+{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 40px;
+
+}
+.logindiv{
+ position: absolute;
+ top: 45%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+ width: 400px;
+ height: 400px;
+ padding: 80px 40px;
+ box-sizing: border-box;
+ background: transparent;
+}
+.logindiv input
+{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 40px;
+
+}
+.logindiv input[type="submit"]{
+  height: 30px;
+  color: #fff;
+  font-size: 15px;
+  background: #800080;
+  cursor: pointer;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  margin-top: 10%;
+}
+.regdiv input[type="submit"]{
+  height: 30px;
+  color: #fff;
+  font-size: 15px;
+  background: #800080;
+  cursor: pointer;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  margin-top: 10%;
+}
+.firstdiv{
+ position: absolute;
+ top: 45%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+ width: 400px;
+ height: 400px;
+ padding: 80px 40px;
+ box-sizing: border-box;
+ background: transparent;
+}
+.firstdiv input
+{  color: #fff;
+
+  cursor: pointer;
+
+    width: 100%;
+    margin-bottom: 20px;
+    height: 40px;
+background-color: #800080;
+border-radius: 25px;
+border: none;
+outline: none;
+font-size: 20px;
+margin-top: 10%;
+
+
+}
